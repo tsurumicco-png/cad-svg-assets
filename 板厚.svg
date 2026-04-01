@@ -1,0 +1,7 @@
+<svg width="100%" viewBox="0 0 680 180" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<rect x="140" y="70" width="400" height="40" rx="2" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.5"/>
+<line x1="580" y1="60" x2="580" y2="120" stroke="#185FA5" stroke-width="1" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="610" y="95" font-family="sans-serif" font-size="14" fill="#0C447C" font-weight="500">t3.2</text>
+<text x="340" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#378ADD">板厚＝「t」で表記</text>
+</svg>
