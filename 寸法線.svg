@@ -1,0 +1,12 @@
+<svg width="100%" viewBox="0 0 480 130" xmlns="http://www.w3.org/2000/svg">
+  <rect x="60" y="30" width="200" height="55" fill="none" stroke="#333" stroke-width="1.5"/>
+  <line x1="60" y1="100" x2="260" y2="100" stroke="#555" stroke-width="0.8"/>
+  <polygon points="66,97 60,100 66,103" fill="#555"/>
+  <polygon points="254,97 260,100 254,103" fill="#555"/>
+  <line x1="60" y1="93" x2="60" y2="107" stroke="#555" stroke-width="0.8"/>
+  <line x1="260" y1="93" x2="260" y2="107" stroke="#555" stroke-width="0.8"/>
+  <text x="160" y="62" font-size="13" fill="#333" text-anchor="middle" font-weight="500">1800</text>
+  <text x="160" y="115" font-size="11" fill="#555" text-anchor="middle">数値は実寸mm（縮尺に関係なし）</text>
+  <text x="310" y="45" font-size="11" fill="#888">両端に矢印→距離を示す</text>
+  <text x="310" y="65" font-size="11" fill="#555">単位はmm（省略が多い）</text>
+</svg>
